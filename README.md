@@ -12,3 +12,4 @@ This project detects phishing emails using keyword and URL analysis.
 pip install -r requirements.txt
 
 python app.py
+Project completed successfully.
